@@ -1,1 +1,1 @@
-# respuestas
+# declaracion
